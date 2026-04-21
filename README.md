@@ -3,6 +3,8 @@
 Uma aplicação web simples de **loja virtual** desenvolvida em **HTML, CSS e JavaScript**, com suporte a **cadastro, login de usuários, modo claro/escuro e carrinho de compras**.  
 O projeto foi criado para fins de aprendizado e demonstração de conceitos de front-end e autenticação básica.
 
+🔗 [Acesse a Loja Virtual online](https://elianelunguinho.github.io/Loja-Virtual/)
+
 ---
 
 ## 🚀 Funcionalidades
@@ -50,3 +52,20 @@ Abra o arquivo index.html no navegador:
 bash
 start index.html   # Windows
 open index.html    # Mac
+🌐 Publicação
+Este projeto está publicado usando GitHub Pages:
+👉 https://elianelunguinho.github.io/Loja-Virtual/
+
+📌 Próximos Passos
+Implementar backend com Node.js + Express.
+
+Integrar banco de dados (ex: MongoDB ou MySQL).
+
+Criar fluxo de checkout e pedidos.
+
+Melhorar design com frameworks como Bootstrap ou TailwindCSS.
+
+👩‍💻 Autora
+Projeto desenvolvido por Eliane Lunguinho  
+Estudante de Engenharia de Software | ADS | Pós-graduação em Cibersegurança
+
